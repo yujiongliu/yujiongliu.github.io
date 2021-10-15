@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Yujiong Liu"
 title_separator          : "-"
 name                     : &name "Yujiong Liu"
-description              : &description "PhD Candidate at Virginia Tech"
-url                      : https://yujiongliu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "PhD Candidate in Robotics"
+url                      : https://yujiongliu.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yujiongliu.github.io"
+repository               : "yujiongliu/yujiongliu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 :  Professional2019.png # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yujiong Liu"
   avatar           : "Professional2019.png"
-  bio              : "PhD Candidate at Virginia Tech, expert in bioinspired robotics, available on the 2021-2022 academic job market"
+  bio              : "PhD Candidate in Robotics at Virginia Tech"
   location         : "Blacksburg, Virginia"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=xfiv84YAAAAJ&hl=en"
-  email            :
+  email            : "yjliu@vt.edu"
   researchgate     : "https://www.researchgate.net/profile/Yujiong-Liu"
   uri              :
   bitbucket        :
