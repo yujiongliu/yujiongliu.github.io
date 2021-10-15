@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "I am on the 2021-2022 academic job market"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This site is under construction.
+This site is under construction. Hellooooo
