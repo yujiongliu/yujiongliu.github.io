@@ -62,9 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  Professional2019.png # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
+og_image                 :  profile.png
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
@@ -81,14 +79,14 @@ analytics:
 # Site Author
 author:
   name             : "Yujiong Liu"
-  avatar           : "Professional2019.png"
+  avatar           : "profile.png"
   bio              : "PhD Candidate in Robotics at Virginia Tech"
   location         : "Blacksburg, Virginia"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=xfiv84YAAAAJ&hl=en"
   email            : "yjliu@vt.edu"
-  researchgate     : "https://www.researchgate.net/profile/Yujiong-Liu"
+  researchgate     : #"https://www.researchgate.net/profile/Yujiong-Liu"
   uri              :
   bitbucket        :
   codepen          :
@@ -113,7 +111,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : 
   wikipedia        :
 
 
