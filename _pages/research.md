@@ -11,10 +11,18 @@ redirect_from:
 
 This research is inspired by the . Such as
 
+<iframe width="480" height="360" src="https://www.youtube.com/embed/v=s6EubHGq-5c"></iframe>
+
 Associated publications:
+
+## Novel Serpentine Robotic Tails
+
+
+<iframe width="480" height="360" src="https://www.youtube.com/embed/v=7xdWW9-xWHo"></iframe>
 
 ## Novel Hybrid Mechanism Developments
 
+<iframe width="480" height="360" src="https://www.youtube.com/embed/v=mfcSpua_-DQ"></iframe>
 
 ## Parallel Robot Kinematics
 
