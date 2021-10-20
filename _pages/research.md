@@ -9,22 +9,28 @@ redirect_from:
 
 ## Using Serpentine Robotic Tails to Enhance the Dexterity, Versatility, and Agility of Legged Robots 
 
-This research is inspired by the . Such as
+This research is inspired by the animals using tail to help agile and dexterous motions, such as those by monkey, cheetah, kangaroo rats, etc.
 
-<iframe width="480" height="360" src="https://www.youtube.com/embed/v=s6EubHGq-5c"></iframe>
+[![Dynamic Simulations Using Matlab](http://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=s6EubHGq-5c)
 
 Associated publications:
 
 ## Novel Serpentine Robotic Tails
 
+[![RMLTail](http://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=7xdWW9-xWHo)
 
-<iframe width="480" height="360" src="https://www.youtube.com/embed/v=7xdWW9-xWHo"></iframe>
+Associated publications:
 
 ## Novel Hybrid Mechanism Developments
 
-<iframe width="480" height="360" src="https://www.youtube.com/embed/v=mfcSpua_-DQ"></iframe>
+[![Rigitail](http://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=mfcSpua_-DQ)
+
+Associated publications:
 
 ## Parallel Robot Kinematics
+
+
+Associated publications:
 
 <!---
 ## Resources
