@@ -9,4 +9,4 @@ redirect_from:
 
 <iframe src="/files/Resume.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-You can download the full version of my CV [here](/files/CV.pdf).
+CV is available upon request. Please email your requests to Yujiong Liu.
