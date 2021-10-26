@@ -3,7 +3,6 @@ permalink: /research/
 title: "Research Summary"
 author_profile: true
 redirect_from: 
-  - /rs/
   - /research.html
 ---
 
@@ -11,26 +10,32 @@ redirect_from:
 
 This research is inspired by the animals using tail to help agile and dexterous motions, such as those by monkey, cheetah, kangaroo rats, etc.
 
-[![Dynamic Simulations Using Matlab](http://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=s6EubHGq-5c)
+[![Dynamic Simulations Using Matlab](/images/design.jpg)](https://www.youtube.com/watch?v=s6EubHGq-5c)
 
-Associated publications:
+<p float="left">
+  <img style="width:30px;" src="/images/rmltail.jpg"/>
+  <img style="width:30px;" src="/images/design.jpg"/> 
+  <img style="width:30px;" src="/images/prototype.jpg"/>
+</p>
 
-## Novel Serpentine Robotic Tails
-
-[![RMLTail](http://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=7xdWW9-xWHo)
-
-Associated publications:
+[Read more ...](research_srt)
 
 ## Novel Hybrid Mechanism Developments
 
-[![Rigitail](http://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=mfcSpua_-DQ)
+<p float="left">
+  <img style="width:30px;" src="/images/rmltail.jpg"/>
+  <img style="width:30px;" src="/images/design.jpg"/> 
+  <img style="width:30px;" src="/images/prototype.jpg"/>
+</p>
 
-Associated publications:
+[![Rigitail](/images/design.jpg)](https://www.youtube.com/watch?v=mfcSpua_-DQ)
+
+[Read more ...](research_rchm)
 
 ## Parallel Robot Kinematics
 
 
-Associated publications:
+[Read more ...](research_h4)
 
 <!---
 ## Resources
