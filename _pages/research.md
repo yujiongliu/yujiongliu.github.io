@@ -23,9 +23,9 @@ This research is inspired by the animals using tail to help agile and dexterous 
 ## Novel Hybrid Mechanism Developments
 
 <p float="left">
-  <img style="width:30px;" src="/images/rmltail.jpg"/>
-  <img style="width:30px;" src="/images/design.jpg"/> 
-  <img style="width:30px;" src="/images/prototype.jpg"/>
+  <img style="width:30px;" src="https://github.com/yujiongliu/yujiongliu.github.io/images/rmltail.jpg"/>
+  <img style="width:30px;" src="https://github.com/yujiongliu/yujiongliu.github.io/images/design.jpg"/> 
+  <img style="width:30px;" src="https://github.com/yujiongliu/yujiongliu.github.io/images/prototype.jpg"/>
 </p>
 
 [![Rigitail](/images/design.jpg)](https://www.youtube.com/watch?v=mfcSpua_-DQ)
