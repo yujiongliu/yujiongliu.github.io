@@ -12,3 +12,5 @@ I am a PhD candidate in Mechanical Engineering at Virginia Tech and working unde
 My research interests mostly lie in the area of biologically-inspired robotics, including developing novel mechanisms, design and manufacturing, mechatronics and systematic integration, modeling, and control of such systems.
 
 Before joining in the [Robotics and Mechatronics Lab](http://www.rmlab.org/) at Virginia Tech, I obtained a M.S. in Applied Mathematics from Uniersity of Minnesota Duluth and a M.S. in Robotics from Harbin Institute Technology, where I mainly worked on developing novel kinematic models and controllers for parallel robots.
+
+###This site is still under construction.
