@@ -10,7 +10,7 @@ redirect_from:
 
 This research is inspired by the biological observations that animals frequently use their serpentine tails to help the agile and dexterous motions, such as those exhibited by monkeys, cheetahs, kangaroo rats, etc. The ultimate goal of this research is to understand the fundamental principles behind these observations and apply these findings on robotics. This includes answering three key questions: (1) what are the functionalities of the serpentine tail on legged locomotion? (2) how do the animals control their tail motion? and (3) how could we learn from these findings and enhance the agility, dexterity, and versatility of existing legged robots?
 
-Our research approach to tackle these three problems consists of two pathes: one theoritical path that focuses on using dynamics and control to understand the tail-involved legged locomotion, and one empirical path that focuses on developing legged robots with a serpentine robotic tail and practically verifying the theoritical findings.
+Our research path consists of two branches: one theoritical branch that focuses on using dynamics and control to understand the tail-involved legged locomotion, and one empirical branch that focuses on developing legged robots with a serpentine robotic tail and practically verifying the theoritical findings.
 
 At present, on the theritical side, we have created general dynamic models for both the quadruped and biped case, with either an articulated tail or a continuum tail. We have also developed motion controllers based on the classical feedback linearization-based control and the numerical optimal control, to coordinate the leg motion and the tail motion. Some of the simulations are
 
