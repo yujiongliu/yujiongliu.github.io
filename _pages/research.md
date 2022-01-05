@@ -13,9 +13,9 @@ redirect_from:
 This research is inspired by the biological observations that animals frequently use their serpentine tails to help the agile and dexterous motions, such as those exhibited by [monkeys](https://www.youtube.com/watch?v=yqzVI0CSKCU), [cheetahs](https://www.youtube.com/watch?v=UJMJryKXjkg), [kangaroo rats](https://www.youtube.com/watch?v=KaGQQ-yX1sA&t=1s), etc. The ultimate goal of this research is to understand the fundamental principles behind these observations and apply these findings on robotics. This includes answering three key questions: (1) what are the functionalities of the serpentine tail on legged locomotion? (2) how do the animals control their tail motion? and (3) how could we learn from these findings and enhance the agility, dexterity, and versatility of existing legged robots? [Read more on the full story](research/legged-robot-with-tail)
 
 <p float="left">
-  <img style="height:300px;" src="/images/kr-at-ar-optSim.gif"/> 
-  <img style="height:200px;" src="/images/rcqt.jpg"/>
-  <img style="height:200px;" src="/images/rcq-slomo.gif"/>
+  [<img style="height:300px;" src="/images/kr-at-ar-optSim.gif"/>](research/legged-robot-with-tail) 
+  [<img style="height:200px;" src="/images/rcqt.jpg"/>](research/legged-robot-with-tail) 
+  [<img style="height:200px;" src="/images/rcq-slomo.gif"/>](research/legged-robot-with-tail) 
 </p>
 
 ## Novel Mechanism Developments and Analysis
