@@ -13,8 +13,8 @@ This research is inspired by the biological observations that animals frequently
 
 <p float="left">
   <img style="height:300px;" src="/images/kr-at-ar-optSim.gif"/> 
-  <img style="height:300px;" src="/images/rcqt.jpg"/>
-  <img style="height:300px;" src="/images/rcq-slomo.gif"/>
+  <img style="height:200px;" src="/images/rcqt.jpg"/>
+  <img style="height:200px;" src="/images/rcq-slomo.gif"/>
 </p>
 
 ## Novel Mechanism Developments and Analysis
