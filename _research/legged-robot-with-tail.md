@@ -1,15 +1,25 @@
 ---
-title: "Paper Title Number 1"
-collection: research
+layout: archive
+title: "Legged Robots with Tails"
 permalink: /research/legged-robot-with-tail
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+author_profile: true
+header:
+  og_image: "images/rcqt.jpg"
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+Our research path on this direction mainly consists of two branches: one theoritical branch that focuses on using dynamics and control theory to understand the tail-involved legged locomotion problem, and one empirical branch that focuses on developing legged robots with a serpentine robotic tail and using hardware to practically verify the theoritical findings.
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+At present, on the theritical side, we have created general dynamic models for both the quadruped and biped case, with either an articulated tail or a continuum tail. We have also developed motion controllers based on the classical feedback linearization-based control and the numerical optimal control, to coordinate the leg motion and the tail motion. Some of the simulations are:
+
+<p float="left">
+  <img style="width:300px;" src="/images/kr-at-ar-sim.gif"/>
+  <img style="width:300px;" src="/images/kr-at-ar-optSim.gif"/> 
+</p>
+
+On the empirical side, we are also developing hardwares, including robotic tails and quadruped robots. Here are some existing prototypes.
+
+<p float="left">
+  <img style="width:30px;" src="/images/rmltail.jpg"/>
+  <img style="width:30px;" src="/images/design.jpg"/> 
+  <img style="width:30px;" src="/images/prototype.jpg"/>
+</p>
