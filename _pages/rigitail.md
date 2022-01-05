@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Legged Robots with Tails"
-permalink: /research/legged-robot-with-tail
+title: "A 2DOF Robotic Tail Using Rigid Link Transmission"
+permalink: /research/rigitail
 author_profile: true
 header:
-  og_image: "images/rcqt.jpg"
+  og_image: "images/rigitail-intro.jpg"
 ---
 
 Our research path on this direction mainly consists of two branches: one theoritical branch that focuses on using dynamics and control theory to understand the tail-involved legged locomotion problem, and one empirical branch that focuses on developing legged robots with a serpentine robotic tail and using hardware to practically verify the theoritical findings.
