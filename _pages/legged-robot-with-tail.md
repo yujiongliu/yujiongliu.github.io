@@ -16,16 +16,16 @@ At present, on the theoritical side, we have created general dynamic models for 
 For bipedalism (using a kangaroo rat model as example), a serpentine tail is controlled to help the kangaroo rat to adjust its airborne posture, stabilize its locomotion through environmental contacts, and recover itself from falling.
 
 <p float="left">
-  <img style="height:320px;" src="/images/kr-at-ar-sim.gif"/>
-  <img style="height:320px;" src="/images/kr-at-ar-optSim.gif"/>
-  <img style="height:320px;" src="/images/kr-at-ar-2s-opt.gif"/>
-  <img style="height:320px;" src="/images/kr-at-ar-3s-opt.gif"/>
+  <img style="height:270px;" src="/images/kr-at-ar-sim.gif"/>
+  <img style="height:270px;" src="/images/kr-at-ar-optSim.gif"/>
+  <img style="height:270px;" src="/images/kr-at-ar-2s-opt.gif"/>
+  <img style="height:270px;" src="/images/kr-at-ar-3s-opt.gif"/>
 </p>
 
 <p float="left">
-  <img style="height:300px;" src="/images/kr-at-jp-nt.gif"/>
-  <img style="height:300px;" src="/images/kr-at-jp-wt.gif"/>
-  <img style="height:300px;" src="/images/kr-ct-sr.gif"/>
+  <img style="height:250px;" src="/images/kr-at-jp-nt.gif"/>
+  <img style="height:250px;" src="/images/kr-at-jp-wt.gif"/>
+  <img style="height:250px;" src="/images/kr-ct-sr.gif"/>
 </p>
 
 For quadrupedalism (using a reduced complexity quadruped robot RCQt as example), a serpentine tail is controlled to help the quadruped robot to adjust its airborne posture and change its heading direction (maneuvering).
