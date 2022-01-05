@@ -7,19 +7,6 @@ header:
   og_image: "images/ecm-intro.jpg"
 ---
 
-Our research path on this direction mainly consists of two branches: one theoritical branch that focuses on using dynamics and control theory to understand the tail-involved legged locomotion problem, and one empirical branch that focuses on developing legged robots with a serpentine robotic tail and using hardware to practically verify the theoritical findings.
+An extensible continuum manipulator (ECM) has specific advantages over its nonextensible counterparts. For instance, in certain applications, such as minimally invasive surgery or pipe inspection, the base motion might be limited or disallowed. The additional extensibility provides the robot with more dexterous manipulation and a larger workspace. Existing continuum robot designs achieve extensibility mainly through artificial muscle/pneumatic, extensible backbone, concentric tube, and base extension, etc. This article proposes a new way to achieve this additional motion degree-of-freedom by taking advantage of the rigid coupling hybrid mechanism concept and a flexible parallel mechanism. More specifically, a rack and pinion set is used to transmit the motion of the i-th subsegment to drive the (i+1)-th subsegment. A six-chain flexible parallel mechanism is used to generate the desired spatial bending and one extension mobility for each subsegment. This way, the new manipulator can achieve tail-like spatial bending and worm-like extension at the same time. Simplified kinematic analyses are conducted to estimate the workspace and the motion nonuniformity. A proof-of-concept prototype was integrated to verify the mechanism’s mobility and to evaluate the kinematic model accuracy. The results show that the proposed mechanism achieved the desired mobilities with a maximum extension ratio of 32.2% and a maximum bending angle of 80 deg.
 
-At present, on the theritical side, we have created general dynamic models for both the quadruped and biped case, with either an articulated tail or a continuum tail. We have also developed motion controllers based on the classical feedback linearization-based control and the numerical optimal control, to coordinate the leg motion and the tail motion. Some of the simulations are:
-
-<p float="left">
-  <img style="width:300px;" src="/images/kr-at-ar-sim.gif"/>
-  <img style="width:300px;" src="/images/kr-at-ar-optSim.gif"/> 
-</p>
-
-On the empirical side, we are also developing hardwares, including robotic tails and quadruped robots. Here are some existing prototypes.
-
-<p float="left">
-  <img style="width:30px;" src="/images/rmltail.jpg"/>
-  <img style="width:30px;" src="/images/design.jpg"/> 
-  <img style="width:30px;" src="/images/prototype.jpg"/>
-</p>
+<img style="width:300px;" src="/images/ecm.jpg"/>
