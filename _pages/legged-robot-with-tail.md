@@ -16,10 +16,10 @@ At present, on the theoritical side, we have created general dynamic models for 
 For bipedalism (using a kangaroo rat model as example), a serpentine tail is controlled to help the kangaroo rat to adjust its airborne posture, stabilize its locomotion through environmental contacts, and recover itself from falling.
 
 <p float="left">
-  <img style="height:300px;" src="/images/kr-at-ar-sim.gif"/>
-  <img style="height:300px;" src="/images/kr-at-ar-optSim.gif"/>
-  <img style="height:300px;" src="/images/kr-at-ar-2s-opt.gif"/>
-  <img style="height:300px;" src="/images/kr-at-ar-3s-opt.gif"/>
+  <img style="height:250px;" src="/images/kr-at-ar-sim.gif"/>
+  <img style="height:250px;" src="/images/kr-at-ar-optSim.gif"/>
+  <img style="height:250px;" src="/images/kr-at-ar-2s-opt.gif"/>
+  <img style="height:250px;" src="/images/kr-at-ar-3s-opt.gif"/>
 </p>
 
 <p float="left">
