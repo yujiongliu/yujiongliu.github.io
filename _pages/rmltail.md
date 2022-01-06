@@ -7,19 +7,12 @@ header:
   og_image: "images/rmltail-intro.jpg"
 ---
 
-Our research path on this direction mainly consists of two branches: one theoritical branch that focuses on using dynamics and control theory to understand the tail-involved legged locomotion problem, and one empirical branch that focuses on developing legged robots with a serpentine robotic tail and using hardware to practically verify the theoritical findings.
+This work presents the development of a new robotic tail based on a novel cable-driven universal joint mechanism. The novel joint mechanism is synthesized by geometric reasoning to achieve the desired cable length invariance property, wherein the mechanism maintains a constant length for the driving cables under universal rotation. This feature is preferable because it allows for the bidirectional pulling of the cables which reduces the requisite number of actuators. After obtaining this new joint mechanism, a serpentine robotic tail with fewer actuators, simpler controls, and a more robust structure is designed and integrated. The new tail includes two independent macro segments (2 degrees of freedom each) to generate more complex shapes (4 degrees of freedom total), which helps with improving the dexterity and versatility of the robot. In addition, the pitch bending and yaw bending of the tail are decoupled due to the perpendicular joint axes. The kinematic modeling, dynamic modeling, and workspace analysis are then explained for the new robotic tail. Three experiments focusing on statics, dynamics, and dexterity are conducted to validate the mechanism and evaluate the new robotic tail's performance. 
 
-At present, on the theritical side, we have created general dynamic models for both the quadruped and biped case, with either an articulated tail or a continuum tail. We have also developed motion controllers based on the classical feedback linearization-based control and the numerical optimal control, to coordinate the leg motion and the tail motion. Some of the simulations are:
+The mechanism principle is illustrated below:
 
-<p float="left">
-  <img style="width:300px;" src="/images/kr-at-ar-sim.gif"/>
-  <img style="width:300px;" src="/images/kr-at-ar-optSim.gif"/> 
-</p>
+<img style="height:250px;" src="/images/rmltaila.jpg"/>
 
-On the empirical side, we are also developing hardwares, including robotic tails and quadruped robots. Here are some existing prototypes.
+And a proof-of-concept prototype:
 
-<p float="left">
-  <img style="width:30px;" src="/images/rmltail.jpg"/>
-  <img style="width:30px;" src="/images/design.jpg"/> 
-  <img style="width:30px;" src="/images/prototype.jpg"/>
-</p>
+<img style="height:250px;" src="/images/rmltailb.jpg"/>
