@@ -15,4 +15,4 @@ An animation shows the mechanism principle:
 
 A proof-of-concept prototype:
 
-<img style="height:300px;" src="/images/rigitail.jpg"/>
+<img style="height:200px;" src="/images/rigitail.jpg"/>
