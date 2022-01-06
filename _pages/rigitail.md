@@ -7,19 +7,12 @@ header:
   og_image: "images/rigitail-intro.jpg"
 ---
 
-Our research path on this direction mainly consists of two branches: one theoritical branch that focuses on using dynamics and control theory to understand the tail-involved legged locomotion problem, and one empirical branch that focuses on developing legged robots with a serpentine robotic tail and using hardware to practically verify the theoritical findings.
+Based on observations from nature, tails are believed to help animals achieve highly agile motions. Traditional single-link robotic tails serve as a good simplification for both modeling and implementation purposes. However, this approach cannot explain the complicated tail behaviors exhibited in nature where multi-link structures are more commonly observed. Unlike its single-link counterpart, articulated multi-link tails essentially belong to the serial manipulator family which possesses special motion transmission design challenges. To address this challenge, a cable-driven hyper-redundant design becomes the most used approach. Limited by cable strength and elastic components, this approach suffers from low-frequency response, inadequate generated inertial loading, and fragile hardware, which are all critical drawbacks for robotic tails design. To solve these structure-related shortcomings, a multi-link robotic tail made up of rigid links is proposed in this paper. The new structure takes advantage of the traditional hybrid mechanism architecture, but utilizes rigid mechanisms to couple the motions between the ith link and the (i + 1)th link rather than using cable actuation. By doing so, the overall tail becomes a rigid mechanism that achieves quasi-uniform spatial bending for each segment and allows performing highly dynamic motions. The mechanism and detailed design of this new robotic tail are presented. The kinematic model was developed and an optimization process was conducted to reduce the bending non-uniformity for the rigid tail. Based on this special optimization design, the dynamic model of the new mechanism is significantly simplified. A small-scale three-segment prototype was integrated to verify the proposed mechanism's unique mobility.
 
-At present, on the theritical side, we have created general dynamic models for both the quadruped and biped case, with either an articulated tail or a continuum tail. We have also developed motion controllers based on the classical feedback linearization-based control and the numerical optimal control, to coordinate the leg motion and the tail motion. Some of the simulations are:
+An animation shows the mechanism principle: 
 
-<p float="left">
-  <img style="width:300px;" src="/images/kr-at-ar-sim.gif"/>
-  <img style="width:300px;" src="/images/kr-at-ar-optSim.gif"/> 
-</p>
+<img style="height:300px;" src="/images/rigitail.gif"/>
 
-On the empirical side, we are also developing hardwares, including robotic tails and quadruped robots. Here are some existing prototypes.
+A proof-of-concept prototype:
 
-<p float="left">
-  <img style="width:30px;" src="/images/rmltail.jpg"/>
-  <img style="width:30px;" src="/images/design.jpg"/> 
-  <img style="width:30px;" src="/images/prototype.jpg"/>
-</p>
+<img style="height:300px;" src="/images/rigitail.jpg"/>
