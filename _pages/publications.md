@@ -8,8 +8,6 @@ author_profile: true
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=xfiv84YAAAAJ&hl=en)
 
 ## 2021
-**Liu, Y.** and Ben-Tzvi, P., ``Systematic Development of a Novel, Dynamic, Reduced Complexity Quadruped Robot Platform for Robotic Tail Research'', 2022 IEEE International Conference on Robotics and Automation (ICRA), May 23-27, 2022, Philadelphia, PA, USA, Submitted.
-
 Yang, J., Saab, W., **Liu, Y.** and Ben-Tzvi, P., 2021, ``Reuleaux Triangle-Based Two Degrees of Freedom Bipedal Robot'', Robotics, 10(4), p. 114.
 
 Ben-Tzvi, P. and **Liu, Y.**, 2021, ``[Robots With Tails](https://asmedigitalcollection.asme.org/memagazineselect/article/143/6/32/1129192/Robots-with-TailsFour-legged-Robots-are-Now)'', ASME Mechanical Engineering Magazine, 143(6), pp. 32-37. [Magazine Article]
@@ -51,3 +49,13 @@ Wan, N., Yao, W., Fang, X. and **Liu, Y.**, 2019, ``Partially Independent Contro
 
 **Liu, Y.** and Ben-Tzvi, P., ``Dynamic Modeling of the Quadruped with a Robotic Tail Using Virtual Work Principle'', Proceedings of the ASME 2018 IDETC/CIE, 42nd Mechanisms & Robotics Conference, Quebec City, Canada, pp.V05BT07A021-V05BT07A021, Aug. 26-29, 2018.
 
+## Patents
+Ben-Tzvi, P., **Liu, Y.**, Extensible Continuum Manipulator, Patent App. No. 63/032,200, INTERNATIONAL (PCT), Filed 5/2021.
+
+Ben-Tzvi, P., Rone, W., Saab, W., **Liu, Y.**, Articulated Multi-Link Robotic Tail Systems and Methods, Patent App. No. 16/428,732, UNITED STATES, Published 12/2019.
+
+Wang, S., **Liu, Y.**, Gong, P., Sun, T., Pan, Q., Yin, Y., A Quadruped Walking Robot, Patent No. CN 201410214222.3, P.R. CHINA, 2014.
+
+Ji, C., **Liu, Y.**, Kong, M., An O-ring Gripper Used for Automatic Assembly, Patent No. CN 201410145847.9, P.R. CHINA, 2014.
+
+Ji, C., **Liu, Y.**, Kong, M., A Novel Fourth Axis of Delta Robot with an Upper Placed Ball Joint Clamping a Square Shaft, Patent No. CN 201410126057.6, P.R. CHINA, 2014.
