@@ -15,4 +15,4 @@ The mechanism principle is illustrated below:
 
 And a proof-of-concept prototype:
 
-<img style="height:150px;" src="/images/rmltailb.jpg"/>
+<img style="height:200px;" src="/images/rmltailb.jpg"/>
