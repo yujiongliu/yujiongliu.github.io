@@ -8,7 +8,7 @@ author_profile: true
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=xfiv84YAAAAJ&hl=en)
 
 ## 2021
-Yang, J., Saab, W., **Liu, Y.** and Ben-Tzvi, P., 2021, ``Reuleaux Triangle-Based Two Degrees of Freedom Bipedal Robot'', Robotics, 10(4), p. 114.
+Yang, J., Saab, W., **Liu, Y.** and Ben-Tzvi, P., 2021, "Reuleaux Triangle-Based Two Degrees of Freedom Bipedal Robot", Robotics, 10(4), p. 114.
 
 Ben-Tzvi, P. and **Liu, Y.**, 2021, ``[Robots With Tails](https://asmedigitalcollection.asme.org/memagazineselect/article/143/6/32/1129192/Robots-with-TailsFour-legged-Robots-are-Now)'', ASME Mechanical Engineering Magazine, 143(6), pp. 32-37. [Magazine Article]
 
