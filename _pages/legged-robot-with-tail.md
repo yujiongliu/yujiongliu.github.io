@@ -7,13 +7,13 @@ header:
   og_image: "images/rcqt.jpg"
 ---
 
-Our research path on this direction mainly consists of two branches: one theoritical branch that focuses on using dynamics and control theory to understand the tail-involved legged locomotion problem, and one empirical branch that focuses on developing legged robots with a serpentine robotic tail and using hardware to practically verify the theoritical findings. We have proposed that with a serpentine robotic tail onboard, the legged robot may be able to perform some unique functionalities.
+Our research path on this direction mainly consists of two branches: one theoretical branch that focuses on using dynamics and control theory to understand the tail-involved legged locomotion problem, and one empirical branch that focuses on developing legged robots with a serpentine robotic tail and using hardware to practically verify the theoretical findings. We have proposed that with a serpentine robotic tail onboard, the legged robot may be able to perform some unique functionalities.
 
 <img style="height:300px;" src="/images/bioinspiration.jpg"/>
 
-At present, on the theoritical side, we have created general dynamic models for both the quadruped and biped case, with either an articulated tail or a continuum tail. We have also developed motion controllers based on the classical feedback linearization-based control and the numerical optimal control, to coordinate the leg motion and the tail motion. Some of the simulations are shown here.
+At present, on the theoretical side, we have created general dynamic models for both the quadruped and biped cases, with either an articulated tail or a continuum tail. We have also developed motion controllers based on the classical feedback linearization-based control and the numerical optimal control, to coordinate the leg motion and the tail motion. Some of the simulations are shown here.
 
-For bipedalism (using a kangaroo rat model as example), a serpentine tail is controlled to help the kangaroo rat to adjust its airborne posture, stabilize its locomotion through environmental contacts, and recover itself from falling.
+For bipedalism (using a kangaroo rat model as an example), a serpentine tail is controlled to help the kangaroo rat to adjust its airborne posture, stabilize its locomotion through environmental contacts, and recover itself from falling.
 
 <p float="left">
   <img style="height:270px;" src="/images/kr-at-ar-sim.gif"/>
@@ -28,7 +28,7 @@ For bipedalism (using a kangaroo rat model as example), a serpentine tail is con
   <img style="height:200px;" src="/images/kr-ct-sr.gif"/>
 </p>
 
-For quadrupedalism (using a reduced complexity quadruped robot RCQt as example), a serpentine tail is controlled to help the quadruped robot to adjust its airborne posture and change its heading direction (maneuvering).
+For quadrupedalism (using a reduced complexity quadruped robot RCQt as an example), a serpentine tail is controlled to help the quadruped robot to adjust its airborne posture and change its heading direction (maneuvering).
 
 <p float="left">
   <img style="height:250px;" src="/images/rcq-ar-nt.gif"/>
