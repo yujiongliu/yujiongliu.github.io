@@ -44,7 +44,7 @@ On the empirical side, we have also developed several hardwares, including robot
   <img style="height:200px;" src="/images/rcq-slomo.gif"/>
 </p>
 
-### Related Publications
+**Related Publications**
 
 **Liu, Y.** and Ben-Tzvi, P., "Systematic Development of a Novel, Dynamic, Reduced Complexity Quadruped Robot Platform for Robotic Tail Research", 2022 IEEE International Conference on Robotics and Automation (ICRA), May 23-27, 2022, Philadelphia, PA, USA, Accepted.
 
