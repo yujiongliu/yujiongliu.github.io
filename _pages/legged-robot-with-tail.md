@@ -43,3 +43,5 @@ On the empirical side, we have also developed several hardwares, including robot
   <img style="height:200px;" src="/images/rcq-walk.gif"/>
   <img style="height:200px;" src="/images/rcq-slomo.gif"/>
 </p>
+
+## Related Publications
