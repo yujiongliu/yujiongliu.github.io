@@ -15,6 +15,8 @@ An animation shows the mechanism principle:
 
 A proof-of-concept prototype:
 
+<img style="height:230px;" src="/images/rigitail-poc.gif"/>
+
 <img style="height:230px;" src="/images/rigitail.jpg"/>
 
 **Related Publications:**
