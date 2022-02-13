@@ -16,3 +16,7 @@ The mechanism principle is illustrated below:
 And a proof-of-concept prototype:
 
 <img style="height:200px;" src="/images/rmltailb.jpg"/>
+
+**Related Publications:**
+
+**Liu, Y.**, Wang, J. and Ben-Tzvi, P., 2019, "A Cable Length Invariant Robotic Tail Using a Circular Shape Universal Joint Mechanism", Journal of Mechanisms and Robotics, Transactions of the ASME, 11(5), p. 051005.
