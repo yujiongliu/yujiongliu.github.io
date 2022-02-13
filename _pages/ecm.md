@@ -12,3 +12,7 @@ An extensible continuum manipulator (ECM) has specific advantages over its nonex
 <img style="height:300px;" src="/images/ecm.jpg"/>
 
 **Related Publications:**
+
+**Liu, Y.** and Ben-Tzvi, 2021, "A New Extensible Continuum Manipulator Using Flexible Parallel Mechanism and Rigid Motion Transmission", Journal of Mechanisms and Robotics, Transactions of the ASME, 13(3), p. 031112. [Invited Special Issue Paper]
+
+**Liu, Y.** and Ben-Tzvi, P., "A New Extensible Continuum Manipulator Using Flexible Parallel Mechanism and Rigid Motion Transmission", Proceedings of the ASME 2020 IDETC/CIE, 44th Mechanisms & Robotics Conference, St. Louis, MO, USA, p. V010T10A065, Aug. 16-19, 2020.
