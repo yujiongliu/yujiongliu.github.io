@@ -48,7 +48,7 @@ On the empirical side, we have also developed several hardwares, including robot
 
 **Liu, Y.** and Ben-Tzvi, P., "Systematic Development of a Novel, Dynamic, Reduced Complexity Quadruped Robot Platform for Robotic Tail Research", 2022 IEEE International Conference on Robotics and Automation (ICRA), May 23-27, 2022, Philadelphia, PA, USA, Accepted.
 
-**Liu, Y.** and Ben-Tzvi, P., "Feedback Control of the Locomotion of a Tailed Quadruped Robot", Proceedings of the ASME 2021 IDETC/CIE, 45th Mechanisms & Robotics Conference, Virtual, Online, p. V08BT08A009, Aug. 17-20, 2021.
+**Liu, Y.** and Ben-Tzvi, P., "Feedback Control of the Locomotion of a Tailed Quadruped Robot", Proceedings of the ASME 2021 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC/CIE2021), 45th Mechanisms & Robotics Conference, Virtual, Online, p. V08BT08A009, Aug. 17-20, 2021.
 
 **Liu, Y.** and Ben-Tzvi, P., 2021, "Dynamic Modeling, Analysis, and Design Synthesis of a Reduced Complexity Quadruped with a Serpentine Robotic Tail", Integrative and Comparative Biology, 61(2), pp. 464–477.
 
@@ -58,4 +58,4 @@ On the empirical side, we have also developed several hardwares, including robot
 
 Rone, W., **Liu, Y.** and Ben-Tzvi, P., 2019, "Maneuvering and Stabilization Control of a Bipedal Robot with a Universal-Spatial Robotic Tail", Bioinspiration & Biomimetics, 14(1), p. 016014.
 
-**Liu, Y.** and Ben-Tzvi, P., "Dynamic Modeling of the Quadruped with a Robotic Tail Using Virtual Work Principle", Proceedings of the ASME 2018 IDETC/CIE, 42nd Mechanisms & Robotics Conference, Quebec City, Canada, pp.V05BT07A021-V05BT07A021, Aug. 26-29, 2018.
+**Liu, Y.** and Ben-Tzvi, P., "Dynamic Modeling of the Quadruped with a Robotic Tail Using Virtual Work Principle", Proceedings of the ASME 2018 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC/CIE2018), 42nd Mechanisms & Robotics Conference, Quebec City, Canada, p. V05BT07A021, Aug. 26-29, 2018.
