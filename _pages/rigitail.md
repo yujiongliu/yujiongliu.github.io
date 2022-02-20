@@ -23,4 +23,4 @@ A proof-of-concept prototype:
 
 **Liu, Y.** and Ben-Tzvi, P., 2020, "Design, Analysis, and Integration of a New Two-DOF Articulated Multi-link Robotic Tail Mechanism", Journal of Mechanisms and Robotics, Transactions of the ASME, 12(2), p. 021101. [Invited Special Issue Paper]
 
-**Liu, Y.** and Ben-Tzvi, P., ``Design, Analysis, and Optimization of a New Two-DOF Articulated Multi-link Robotic Tail'', Proceedings of the ASME 2019 IDETC/CIE, 43rd Mechanisms & Robotics Conference, Anaheim CA, USA, p. V05BT07A008, Aug. 18–21, 2019.
+**Liu, Y.** and Ben-Tzvi, P., ``Design, Analysis, and Optimization of a New Two-DOF Articulated Multi-link Robotic Tail'', Proceedings of the ASME 2019 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC/CIE2019), 43rd Mechanisms & Robotics Conference, Anaheim CA, USA, p. V05BT07A008, Aug. 18–21, 2019.
