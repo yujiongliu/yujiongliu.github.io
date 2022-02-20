@@ -8,6 +8,10 @@ author_profile: true
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=xfiv84YAAAAJ&hl=en)
 
 ## 2022
+Pressgrove, I., **Liu, Y.** and Ben-Tzvi, P., "Design and Implementation of a Power-Dense, Modular, and Compact Serpentine Articulated Robotic Tail", Proceedings of the ASME 2022 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC/CIE2022), 46th Mechanisms & Robotics Conference, St. Louis, MO, USA, August 14-17, 2022, Submitted.
+
+Xu, W, **Liu, Y.** and Ben-Tzvi, P., "Design, Analysis, and Prototyping of a Novel Single Degree-of-Freedom Index Finger Exoskeleton Mechanism", Proceedings of the ASME 2022 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC/CIE2022), 46th Mechanisms & Robotics Conference, St. Louis, MO, USA, August 14-17, 2022, Submitted.
+
 **Liu, Y.** and Ben-Tzvi, P., "Systematic Development of a Novel, Dynamic, Reduced Complexity Quadruped Robot Platform for Robotic Tail Research", 2022 IEEE International Conference on Robotics and Automation (ICRA), May 23-27, 2022, Philadelphia, PA, USA, Accepted.
 
 ## 2021
@@ -50,7 +54,7 @@ Wan, N., Yao, W., Fang, X. and **Liu, Y.**, 2019, "Partially Independent Control
 ## 2018
 **Liu, Y.**, Kong, M., Wan, N. and Ben-Tzvi, P., 2018, "A Geometric Approach to Obtain the Closed-Form Forward Kinematics of H4 Parallel Robot", Journal of Mechanisms and Robotics, Transactions of the ASME, 10(5), p. 0510113.
 
-**Liu, Y.** and Ben-Tzvi, P., "Dynamic Modeling of the Quadruped with a Robotic Tail Using Virtual Work Principle", Proceedings of the ASME 2018 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC/CIE2018), 42nd Mechanisms & Robotics Conference, Quebec City, Canada, pp.V05BT07A021-V05BT07A021, Aug. 26-29, 2018.
+**Liu, Y.** and Ben-Tzvi, P., "Dynamic Modeling of the Quadruped with a Robotic Tail Using Virtual Work Principle", Proceedings of the ASME 2018 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC/CIE2018), 42nd Mechanisms & Robotics Conference, Quebec City, Canada, p. V05BT07A021, Aug. 26-29, 2018.
 
 ## Patents
 Ben-Tzvi, P., **Liu, Y.**, "Extensible Continuum Manipulator", Patent App. No. 63/032,200, INTERNATIONAL (PCT), Filed 5/2021.
