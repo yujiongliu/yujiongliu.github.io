@@ -63,7 +63,7 @@ Wan, N., Yao, W., Fang, X. and **Liu, Y.**, 2019, "Partially Independent Control
 ## Patents
 Ben-Tzvi, P., **Liu, Y.**, "Extensible Continuum Manipulator", Patent App. No. 63/032,200, INTERNATIONAL (PCT), Filed 5/2021.
 
-Ben-Tzvi, P., Rone, W., Saab, W., **Liu, Y.**, "Articulated Multi-Link Robotic Tail Systems and Methods", Patent No. 11,305,420, UNITED STATES.
+Ben-Tzvi, P., Rone, W., Saab, W., **Liu, Y.**, "Articulated Multi-Link Robotic Tail Systems and Methods", Patent No. 11,305,420, UNITED STATES, 2022.
 
 Wang, S., **Liu, Y.**, Gong, P., Sun, T., Pan, Q., Yin, Y., "A Quadruped Walking Robot", Patent No. CN 201410214222.3, P.R. CHINA, 2014.
 
