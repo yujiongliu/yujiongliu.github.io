@@ -19,9 +19,9 @@ Xu, W, **Liu, Y.** and Ben-Tzvi, P., "Design, Analysis, and Prototyping of a Nov
 **Liu, Y.** and Ben-Tzvi, P., 2022, "How a Serpentine Tail Assists Agile Motions of Kangaroo Rats: A Dynamics and Control Approach", Nonlinear Dynamics, Under Review.
 
 ## 2021
-Yang, J., Saab, W., **Liu, Y.** and Ben-Tzvi, P., 2021, "Reuleaux Triangle-Based Two Degrees of Freedom Bipedal Robot", Robotics, 10(4), p. 114.
+Yang, J., Saab, W., **Liu, Y.** and Ben-Tzvi, P., 2021, "Reuleaux Triangle-Based Two Degrees of Freedom Bipedal Robot", Robotics, 10(4), p. 114. [Read...](https://www.mdpi.com/2218-6581/10/4/114)
 
-Ben-Tzvi, P. and **Liu, Y.**, 2021, "[Robots With Tails](https://asmedigitalcollection.asme.org/memagazineselect/article/143/6/32/1129192/Robots-with-TailsFour-legged-Robots-are-Now)", ASME Mechanical Engineering Magazine, 143(6), pp. 32-37. [Magazine Article]
+Ben-Tzvi, P. and **Liu, Y.**, 2021, "Robots With Tails", ASME Mechanical Engineering Magazine, 143(6), pp. 32-37. [Magazine Article] [Read...](https://asmedigitalcollection.asme.org/memagazineselect/article/143/6/32/1129192/Robots-with-TailsFour-legged-Robots-are-Now)
 
 **Liu, Y.** and Ben-Tzvi, P., "Feedback Control of the Locomotion of a Tailed Quadruped Robot", Proceedings of the ASME 2021 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC/CIE2021), 45th Mechanisms & Robotics Conference, Virtual, Online, p. V08BT08A009, Aug. 17-20, 2021.
 
@@ -70,3 +70,8 @@ Wang, S., **Liu, Y.**, Gong, P., Sun, T., Pan, Q., Yin, Y., "A Quadruped Walking
 Ji, C., **Liu, Y.**, Kong, M., "An O-ring Gripper Used for Automatic Assembly", Patent No. CN 201410145847.9, P.R. CHINA, 2014.
 
 Ji, C., **Liu, Y.**, Kong, M., "A Novel Fourth Axis of Delta Robot with an Upper Placed Ball Joint Clamping a Square Shaft", Patent No. CN 201410126057.6, P.R. CHINA, 2014.
+
+## Thesis and Dissertation
+**Liu, Y.**, "Novel Legged Robots with a Serpentine Robotic Tail: Modeling, Control, and Implementations", Virginia Tech, May 2022.
+**Liu, Y.**, "A Connection Between Analytic and Nonanalytic Singular Perturbations of the Quadratic Map", University of Minnesota, May 2017.
+**Liu, Y.**, "Research on the Nonlinear Control of High-Speed Delta Robot", Harbin Institute of Technology, July 2015.
