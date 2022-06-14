@@ -19,7 +19,8 @@ Xu, W, **Liu, Y.** and Ben-Tzvi, P., "Design, Analysis, and Prototyping of a Nov
 **Liu, Y.** and Ben-Tzvi, P., 2022, "How a Serpentine Tail Assists Agile Motions of Kangaroo Rats: A Dynamics and Control Approach", Nonlinear Dynamics, Under Review.
 
 ## 2021
-Yang, J., Saab, W., **Liu, Y.** and Ben-Tzvi, P., 2021, "Reuleaux Triangle-Based Two Degrees of Freedom Bipedal Robot", Robotics, 10(4), p. 114. [Read...](https://www.mdpi.com/2218-6581/10/4/114) [![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
+Yang, J., Saab, W., **Liu, Y.** and Ben-Tzvi, P., 2021, "Reuleaux Triangle-Based Two Degrees of Freedom Bipedal Robot", Robotics, 10(4), p. 114. [Read...](https://www.mdpi.com/2218-6581/10/4/114) [![Foo](/images/link.png)]([http://google.com.au/](https://www.mdpi.com/2218-6581/10/4/114))
+[<img style="height:10px;" src="/images/link.png"/>]([/research/h4](https://www.mdpi.com/2218-6581/10/4/114))
 
 Ben-Tzvi, P. and **Liu, Y.**, 2021, "Robots With Tails", ASME Mechanical Engineering Magazine, 143(6), pp. 32-37. [Magazine Article] [Read...](https://asmedigitalcollection.asme.org/memagazineselect/article/143/6/32/1129192/Robots-with-TailsFour-legged-Robots-are-Now)
 
