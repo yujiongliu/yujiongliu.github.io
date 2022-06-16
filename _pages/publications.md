@@ -72,7 +72,7 @@ Ji, C., **Liu, Y.**, Kong, M., "An O-ring Gripper Used for Automatic Assembly", 
 Ji, C., **Liu, Y.**, Kong, M., "A Novel Fourth Axis of Delta Robot with an Upper Placed Ball Joint Clamping a Square Shaft", Patent No. CN 201410126057.6, P.R. CHINA, 2014.
 
 ## Thesis and Dissertation
-**Liu, Y.**, "Novel Legged Robots with a Serpentine Robotic Tail: Modeling, Control, and Implementations", Virginia Tech, May 2022.
+**Liu, Y.**, "Novel Legged Robots with a Serpentine Robotic Tail: Modeling, Control, and Implementations", Virginia Tech, May 2022.  [<img style="height:15px;" src="/images/link.png"/>](https://vtechworks.lib.vt.edu/handle/10919/110797)
 
 **Liu, Y.**, "A Connection Between Analytic and Nonanalytic Singular Perturbations of the Quadratic Map", University of Minnesota, May 2017.  [<img style="height:15px;" src="/images/link.png"/>](https://conservancy.umn.edu/handle/11299/189081)
 
