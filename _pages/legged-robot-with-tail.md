@@ -46,7 +46,7 @@ On the empirical side, we have also developed several hardwares, including robot
 
 **Related Publications:**
 
-**Liu, Y.** and Ben-Tzvi, P., "Systematic Development of a Novel, Dynamic, Reduced Complexity Quadruped Robot Platform for Robotic Tail Research", 2022 IEEE International Conference on Robotics and Automation (ICRA), May 23-27, 2022, Philadelphia, PA, USA, Accepted.
+**Liu, Y.** and Ben-Tzvi, P., "Systematic Development of a Novel, Dynamic, Reduced Complexity Quadruped Robot Platform for Robotic Tail Research", 2022 IEEE International Conference on Robotics and Automation (ICRA), Philadelphia, PA, USA, May 23-27, 2022.
 
 **Liu, Y.** and Ben-Tzvi, P., "Feedback Control of the Locomotion of a Tailed Quadruped Robot", Proceedings of the ASME 2021 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC/CIE2021), 45th Mechanisms & Robotics Conference, Virtual, Online, p. V08BT08A009, Aug. 17-20, 2021.
 
