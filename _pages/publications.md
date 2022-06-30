@@ -18,6 +18,8 @@ Xu, W, **Liu, Y.** and Ben-Tzvi, P., "Design, Analysis, and Prototyping of a Nov
 
 **Liu, Y.** and Ben-Tzvi, P., 2022, "How a Serpentine Tail Assists Agile Motions of Kangaroo Rats: A Dynamics and Control Approach", Nonlinear Dynamics, Under Review.
 
+Wang, J., **Liu, Y.** and Ben-Tzvi, P., 2021 "Robust Adaptive Input-Output Control for a Class of Modular Robotic Systems via Inverse Optimality Theory", International Journal of Control, 95(7), pp. 1898-1912.  [<img style="height:15px;" src="/images/link.png"/>](https://www.tandfonline.com/doi/abs/10.1080/00207179.2021.1885741?journalCode=tcon20)
+
 ## 2021
 Yang, J., Saab, W., **Liu, Y.** and Ben-Tzvi, P., 2021, "Reuleaux Triangle-Based Two Degrees of Freedom Bipedal Robot", Robotics, 10(4), p. 114.  [<img style="height:15px;" src="/images/link.png"/>](https://www.mdpi.com/2218-6581/10/4/114)
 
@@ -30,8 +32,6 @@ Ben-Tzvi, P. and **Liu, Y.**, 2021, "Robots With Tails", ASME Mechanical Enginee
 **Liu, Y.** and Ben-Tzvi, 2021, "A New Extensible Continuum Manipulator Using Flexible Parallel Mechanism and Rigid Motion Transmission", Journal of Mechanisms and Robotics, Transactions of the ASME, 13(3), p. 031112. [Invited Special Issue Paper]  [<img style="height:15px;" src="/images/link.png"/>](https://asmedigitalcollection.asme.org/mechanismsrobotics/article/13/3/031014/1098038/A-New-Extensible-Continuum-Manipulator-Using)
 
 **Liu, Y.** and Ben-Tzvi, P., 2021, "Dynamic Modeling, Analysis, and Comparative Study of a Quadruped with Bio-inspired Robotic Tails", Multibody System Dynamics, 51(2), pp. 195-219.  [<img style="height:15px;" src="/images/link.png"/>](https://link.springer.com/article/10.1007/s11044-020-09764-8)
-
-Wang, J., **Liu, Y.** and Ben-Tzvi, P., 2021 "Robust Adaptive Input-Output Control for a Class of Modular Robotic Systems via Inverse Optimality Theory", International Journal of Control, Published Online, DOI: 10.1080/00207179.2021.1885741.  [<img style="height:15px;" src="/images/link.png"/>](https://www.tandfonline.com/doi/abs/10.1080/00207179.2021.1885741?journalCode=tcon20)
 
 **Liu, Y.** and Ben-Tzvi, P., "Towards Dynamic Locomotion of Legged Robots Using Biomimetic Articulated Robotic Tails", 2021 Society for Integrative and Comparative Biology Annual Meeting (SICB2021), Washington D.C., USA, Jan. 3-7, 2021. [Abstract Submission]
 
