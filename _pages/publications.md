@@ -18,7 +18,7 @@ Xu, W, **Liu, Y.** and Ben-Tzvi, P., "Design, Analysis, and Prototyping of a Nov
 
 **Liu, Y.** and Ben-Tzvi, P., 2022, "How a Serpentine Tail Assists Agile Motions of Kangaroo Rats: A Dynamics and Control Approach", Nonlinear Dynamics, Under Review.
 
-Wang, J., **Liu, Y.** and Ben-Tzvi, P., 2021 "Robust Adaptive Input-Output Control for a Class of Modular Robotic Systems via Inverse Optimality Theory", International Journal of Control, 95(7), pp. 1898-1912.  [<img style="height:15px;" src="/images/link.png"/>](https://www.tandfonline.com/doi/abs/10.1080/00207179.2021.1885741?journalCode=tcon20)
+Wang, J., **Liu, Y.** and Ben-Tzvi, P., 2022 "Robust Adaptive Input-Output Control for a Class of Modular Robotic Systems via Inverse Optimality Theory", International Journal of Control, 95(7), pp. 1898-1912.  [<img style="height:15px;" src="/images/link.png"/>](https://www.tandfonline.com/doi/abs/10.1080/00207179.2021.1885741?journalCode=tcon20)
 
 ## 2021
 Yang, J., Saab, W., **Liu, Y.** and Ben-Tzvi, P., 2021, "Reuleaux Triangle-Based Two Degrees of Freedom Bipedal Robot", Robotics, 10(4), p. 114.  [<img style="height:15px;" src="/images/link.png"/>](https://www.mdpi.com/2218-6581/10/4/114)
