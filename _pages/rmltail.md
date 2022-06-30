@@ -19,4 +19,4 @@ And a proof-of-concept prototype:
 
 **Related Publications:**
 
-**Liu, Y.**, Wang, J. and Ben-Tzvi, P., 2019, "A Cable Length Invariant Robotic Tail Using a Circular Shape Universal Joint Mechanism", Journal of Mechanisms and Robotics, Transactions of the ASME, 11(5), p. 051005.
+**Liu, Y.**, Wang, J. and Ben-Tzvi, P., 2019, "A Cable Length Invariant Robotic Tail Using a Circular Shape Universal Joint Mechanism", Journal of Mechanisms and Robotics, Transactions of the ASME, 11(5), p. 051005.  [<img style="height:15px;" src="/images/link.png"/>](https://asmedigitalcollection.asme.org/mechanismsrobotics/article-abstract/11/5/051005/956020/A-Cable-Length-Invariant-Robotic-Tail-Using-a?redirectedFrom=fulltext)
