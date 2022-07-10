@@ -8,11 +8,11 @@ author_profile: true
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=xfiv84YAAAAJ&hl=en)
 
 ## 2022
-Xu, W, **Liu, Y.** and Ben-Tzvi, P., "Development of a Novel Low-profile Robotic Exoskeleton Glove for Patients with Brachial Plexus Injuries", 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Kyoto, Japan, October 23–27, 2022.
+Xu, W, **Liu, Y.** and Ben-Tzvi, P., "Development of a Novel Low-profile Robotic Exoskeleton Glove for Patients with Brachial Plexus Injuries", 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Kyoto, Japan, October 23–27, 2022. Accepted.
 
-Pressgrove, I., **Liu, Y.** and Ben-Tzvi, P., "Design and Implementation of a Power-Dense, Modular, and Compact Serpentine Articulated Robotic Tail", Proceedings of the ASME 2022 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC/CIE2022), 46th Mechanisms & Robotics Conference, St. Louis, MO, USA, August 14-17, 2022.
+Pressgrove, I., **Liu, Y.** and Ben-Tzvi, P., "Design and Implementation of a Power-Dense, Modular, and Compact Serpentine Articulated Robotic Tail", Proceedings of the ASME 2022 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC/CIE2022), 46th Mechanisms & Robotics Conference, St. Louis, MO, USA, August 14-17, 2022. Accepted.
 
-Xu, W, **Liu, Y.** and Ben-Tzvi, P., "Design, Analysis, and Prototyping of a Novel Single Degree-of-Freedom Index Finger Exoskeleton Mechanism", Proceedings of the ASME 2022 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC/CIE2022), 46th Mechanisms & Robotics Conference, St. Louis, MO, USA, August 14-17, 2022.
+Xu, W, **Liu, Y.** and Ben-Tzvi, P., "Design, Analysis, and Prototyping of a Novel Single Degree-of-Freedom Index Finger Exoskeleton Mechanism", Proceedings of the ASME 2022 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC/CIE2022), 46th Mechanisms & Robotics Conference, St. Louis, MO, USA, August 14-17, 2022. Accepted.
 
 **Liu, Y.** and Ben-Tzvi, P., "Systematic Development of a Novel, Dynamic, Reduced Complexity Quadruped Robot Platform for Robotic Tail Research", 2022 IEEE International Conference on Robotics and Automation (ICRA), Philadelphia, PA, USA, May 23-27, 2022.
 
