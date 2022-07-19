@@ -14,9 +14,9 @@ Pressgrove, I., **Liu, Y.** and Ben-Tzvi, P., "Design and Implementation of a Po
 
 Xu, W, **Liu, Y.** and Ben-Tzvi, P., "Design, Analysis, and Prototyping of a Novel Single Degree-of-Freedom Index Finger Exoskeleton Mechanism", Proceedings of the ASME 2022 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC/CIE2022), 46th Mechanisms & Robotics Conference, St. Louis, MO, USA, August 14-17, 2022. Accepted.
 
-**Liu, Y.** and Ben-Tzvi, P., "Systematic Development of a Novel, Dynamic, Reduced Complexity Quadruped Robot Platform for Robotic Tail Research", 2022 IEEE International Conference on Robotics and Automation (ICRA), Philadelphia, PA, USA, May 23-27, 2022.
-
 **Liu, Y.** and Ben-Tzvi, P., 2022, "How a Serpentine Tail Assists Agile Motions of Kangaroo Rats: A Dynamics and Control Approach", Nonlinear Dynamics, Under Review.
+
+**Liu, Y.** and Ben-Tzvi, P., "Systematic Development of a Novel, Dynamic, Reduced Complexity Quadruped Robot Platform for Robotic Tail Research", 2022 IEEE International Conference on Robotics and Automation (ICRA), Philadelphia, PA, USA, May 23-27, 2022.  [<img style="height:15px;" src="/images/link.png"/>](https://ieeexplore.ieee.org/abstract/document/9811871)
 
 Wang, J., **Liu, Y.** and Ben-Tzvi, P., 2022 "Robust Adaptive Input-Output Control for a Class of Modular Robotic Systems via Inverse Optimality Theory", International Journal of Control, 95(7), pp. 1898-1912.  [<img style="height:15px;" src="/images/link.png"/>](https://www.tandfonline.com/doi/abs/10.1080/00207179.2021.1885741?journalCode=tcon20)
 
