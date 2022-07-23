@@ -40,7 +40,6 @@ On the empirical side, we have also developed several hardwares, including robot
 
 <p float="left">
   <img style="height:200px;" src="/images/rcqt.jpg"/>
-  <img style="height:200px;" src="/images/rcq-walk.gif"/>
   <img style="height:200px;" src="/images/rcq-slomo.gif"/>
 </p>
 
