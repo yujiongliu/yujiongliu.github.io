@@ -15,4 +15,4 @@ During my master's study, I developed an adaptive controller to estimate the pay
 
 **Related Publications:**
 
-**Liu, Y.**, Kong, M., Wan, N. and Ben-Tzvi, P., 2018, "A Geometric Approach to Obtain the Closed-Form Forward Kinematics of H4 Parallel Robot", Journal of Mechanisms and Robotics, Transactions of the ASME, 10(5), p. 0510113.  [<img style="height:15px;" src="/images/link.png"/>](https://asmedigitalcollection.asme.org/mechanismsrobotics/article-abstract/10/5/051013/474106/A-Geometric-Approach-to-Obtain-the-Closed-Form?redirectedFrom=fulltext)
+**Liu, Y.**, "Research on the Nonlinear Control of High-Speed Delta Robot", Harbin Institute of Technology, July 2015.  [<img style="height:15px;" src="/images/link.png"/>](https://cdmd.cnki.com.cn/Article/CDMD-10213-1015980772.htm)
