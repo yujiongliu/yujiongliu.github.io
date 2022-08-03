@@ -18,8 +18,8 @@ As byproducts of the serpentine tail research, I have proposed several tail-like
 
 [<img style="height:150px;" src="/images/rmltail-intro.jpg"/>](/research/rmltail) [<img style="height:150px;" src="/images/rigitail-intro.jpg"/>](/research/rigitail) [<img style="height:150px;" src="/images/ecm-intro.jpg"/>](/research/ecm)
 
-## Parallel Mechanism Analysis
+## Parallel Mechanism Analysis and Control
 
 I have also worked on the controlling and kinematic analysis of parallel mechanisms. Please click on the image to read more about this work.
 
-[<img style="height:150px;" src="/images/h4-intro.png"/>](/research/h4)
+[<img style="height:150px;" src="/images/h4-intro.png"/>](/research/h4) [<img style="height:150px;" src="/images/delta.gif"/>](/research/delta)
