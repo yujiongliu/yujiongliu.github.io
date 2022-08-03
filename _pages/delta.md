@@ -7,7 +7,7 @@ header:
   og_image: "images/delta.gif"
 ---
 
-During my master's study, I developed an adaptive controller to estimate the payload at real time. The robot can successfully achieve more than 200 standard pick-and-place motions in one minute.
+During my master's study, I developed a computed torque controller and an adaptive controller (to estimate the variable payload at real time) for the high-speed motions of the Delta robot. These controllers made the robot achieve up to 300 standard Adept pick-and-place trajectory in one minute.
 
 <p float="left">
   <img style="height:300px;" src="/images/delta.gif"/>
