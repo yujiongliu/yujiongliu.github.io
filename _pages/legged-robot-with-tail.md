@@ -30,7 +30,7 @@ For quadrupedalism (using a reduced complexity quadruped robot RCQt as an exampl
   <img style="height:250px;" src="/images/rcqt-recovery.gif"/>
 </p>
 
-On the empirical side, we have also developed several hardwares, including robotic tails (see the [RML Tail](/research/rmltail) and the [Rigitail](/research/rigitail)) and quadruped robots. Here shows one quadruped robot before integrating a robotic tail 
+On the empirical side, we have also developed several hardwares, including robotic tails (see the [RML Tail](/research/rmltail) and the [Rigitail](/research/rigitail)) and quadruped robots. Here shows one quadruped robot (called RCQ) before integrating a robotic tail 
 
 <p float="left">
   <img style="height:200px;" src="/images/rcq-slomo.gif"/>
