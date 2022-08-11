@@ -22,25 +22,28 @@ For bipedalism (using a kangaroo rat model as an example), a serpentine tail is 
   <img style="height:270px;" src="/images/kr-at-ar-3s-opt.gif"/>
 </p>
 
-<p float="left">
-  <img style="height:200px;" src="/images/kr-at-jp-nt.gif"/>
-  <img style="height:200px;" src="/images/kr-at-jp-wt.gif"/>
-  <img style="height:200px;" src="/images/kr-ct-sr.gif"/>
-</p>
-
 For quadrupedalism (using a reduced complexity quadruped robot RCQt as an example), a serpentine tail is controlled to help the quadruped robot to adjust its airborne posture and change its heading direction (maneuvering).
 
 <p float="left">
-  <img style="height:250px;" src="/images/rcq-ar-nt.gif"/>
-  <img style="height:250px;" src="/images/rcq-ar-wt.gif"/>
-  <img style="height:250px;" src="/images/rcq-mn.gif"/>
+  <img style="height:250px;" src="/images/rcq-maneuver.gif"/>
+  <img style="height:250px;" src="/images/rcq-balance.gif"/>
+  <img style="height:250px;" src="/images/rcq-recovery.gif"/>
 </p>
 
-On the empirical side, we have also developed several hardwares, including robotic tails (see the [RML Tail](/research/rmltail) and the [Rigitail](/research/rigitail)) and quadruped robots. Here shows one conceptual design for the tailed quadruped robot and one existing quadruped robot prototype.
+On the empirical side, we have also developed several hardwares, including robotic tails (see the [RML Tail](/research/rmltail) and the [Rigitail](/research/rigitail)) and quadruped robots. Here shows one quadruped robot before integrating a robotic tail 
 
 <p float="left">
-  <img style="height:200px;" src="/images/rcqt.jpg"/>
+  <img style="height:200px;" src="/images/vt-lemur.jpg"/>
   <img style="height:200px;" src="/images/rcq-slomo.gif"/>
+</p>
+
+and the VT Lemur robot with the Roll-Revolute-Revolute Robotic Tail (a.k.a. R3RT) integrated onboard.
+
+<p float="left">
+  <img style="height:200px;" src="/images/vt-lemur.jpg"/>
+  <img style="height:200px;" src="/images/vt-lemur-man.gif"/>
+  <img style="height:200px;" src="/images/rcqt-hang.gif"/>
+  <img style="height:200px;" src="/images/rcqt-standup.gif"/>
 </p>
 
 **Related Publications:**
