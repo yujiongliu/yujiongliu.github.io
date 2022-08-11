@@ -41,7 +41,6 @@ and the VT Lemur robot with the Roll-Revolute-Revolute Robotic Tail (a.k.a. R3RT
 <p float="left">
   <img style="height:200px;" src="/images/vt-lemur.jpg"/>
   <img style="height:200px;" src="/images/vt-lemur-man.gif"/>
-  <img style="height:200px;" src="/images/rcqt-hang.gif"/>
   <img style="height:200px;" src="/images/rcqt-standup.gif"/>
 </p>
 
