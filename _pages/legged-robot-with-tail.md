@@ -25,10 +25,10 @@ For bipedalism (using a kangaroo rat model as an example), a serpentine tail is 
 For quadrupedalism (using a reduced complexity quadruped robot RCQt as an example), a serpentine tail is controlled to help the quadruped robot to adjust its airborne posture and change its heading direction (maneuvering).
 
 <p float="left">
-  <img style="height:250px;" src="/images/rcqt-maneuver-sim.gif"/>
-  <img style="height:250px;" src="/images/rcqt-standup-sim.gif"/>
-  <img style="height:250px;" src="/images/rcqt-balance.gif"/>
-  <img style="height:250px;" src="/images/rcqt-recovery.gif"/>
+  <img style="height:200px;" src="/images/rcqt-maneuver-sim.gif"/>
+  <img style="height:200px;" src="/images/rcqt-standup-sim.gif"/>
+  <img style="height:200px;" src="/images/rcqt-balance.gif"/>
+  <img style="height:200px;" src="/images/rcqt-recovery.gif"/>
 </p>
 
 On the empirical side, we have also developed several hardwares, including robotic tails (see the [RML Tail](/research/rmltail) and the [Rigitail](/research/rigitail)) and quadruped robots. Here shows one quadruped robot (called RCQ) before integrating a robotic tail 
