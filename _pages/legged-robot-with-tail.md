@@ -25,7 +25,8 @@ For bipedalism (using a kangaroo rat model as an example), a serpentine tail is 
 For quadrupedalism (using a reduced complexity quadruped robot RCQt as an example), a serpentine tail is controlled to help the quadruped robot to adjust its airborne posture and change its heading direction (maneuvering).
 
 <p float="left">
-  <img style="height:250px;" src="/images/rcqt-maneuver.gif"/>
+  <img style="height:250px;" src="/images/rcqt-maneuver-sim.gif"/>
+  <img style="height:250px;" src="/images/rcqt-standup-sim.gif"/>
   <img style="height:250px;" src="/images/rcqt-balance.gif"/>
   <img style="height:250px;" src="/images/rcqt-recovery.gif"/>
 </p>
