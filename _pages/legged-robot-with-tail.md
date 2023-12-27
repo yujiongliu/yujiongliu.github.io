@@ -47,7 +47,9 @@ and the VT Lemur robot with the Roll-Revolute-Revolute Robotic Tail (a.k.a. R3RT
 
 **Related Publications:**
 
-Pressgrove, I., **Liu, Y.** and Ben-Tzvi, P., "Design and Implementation of a Power-Dense, Modular, and Compact Serpentine Articulated Robotic Tail", Proceedings of the ASME 2022 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC/CIE2022), 46th Mechanisms & Robotics Conference, St. Louis, MO, USA, August 14-17, 2022.
+**Liu, Y.** and Ben-Tzvi, P., 2023, "How a Serpentine Tail Assists Agile Motions of Kangaroo Rats: A Dynamics and Control Approach", Nonlinear Dynamics, 111(16), pp. 14783-14803. [<img style="height:15px;" src="/images/link.png"/>](https://link.springer.com/article/10.1007/s11071-023-08646-w)
+
+Pressgrove, I., **Liu, Y.** and Ben-Tzvi, P., "Design and Implementation of a Power-Dense, Modular, and Compact Serpentine Articulated Robotic Tail", Proceedings of the ASME 2022 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC/CIE2022), 46th Mechanisms & Robotics Conference, St. Louis, MO, USA, August 14-17, 2022, p. V007T07A053.  [<img style="height:15px;" src="/images/link.png"/>](https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2022/V007T07A053/1150683)
 
 **Liu, Y.** and Ben-Tzvi, P., "Systematic Development of a Novel, Dynamic, Reduced Complexity Quadruped Robot Platform for Robotic Tail Research", 2022 IEEE International Conference on Robotics and Automation (ICRA), Philadelphia, PA, USA, May 23-27, 2022, pp. 4664-4670.  [<img style="height:15px;" src="/images/link.png"/>](https://ieeexplore.ieee.org/abstract/document/9811871)
 
