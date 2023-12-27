@@ -7,14 +7,18 @@ author_profile: true
 
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=xfiv84YAAAAJ&hl=en)
 
+## 2024
+Xu, W, Guo, Y, **Liu, Y.** and Ben-Tzvi, P., 2024, "Development of a Novel Compact Robotic Exoskeleton Glove with Reinforcement Learning Control", Journal of Mechanisms and Robotics, Transactions of the ASME, DOI: 10.1115/1.4064283.  [<img style="height:15px;" src="/images/link.png"/>](https://asmedigitalcollection.asme.org/mechanismsrobotics/article-abstract/doi/10.1115/1.4064283/1192671/Development-of-a-Novel-Compact-Robotic-Exoskeleton?redirectedFrom=fulltext)
+
+## 2023
+**Liu, Y.** and Ben-Tzvi, P., 2023, "How a Serpentine Tail Assists Agile Motions of Kangaroo Rats: A Dynamics and Control Approach", Nonlinear Dynamics, 111(16), pp. 14783-14803. [<img style="height:15px;" src="/images/link.png"/>](https://link.springer.com/article/10.1007/s11071-023-08646-w)
+
 ## 2022
-Xu, W, **Liu, Y.** and Ben-Tzvi, P., "Development of a Novel Low-profile Robotic Exoskeleton Glove for Patients with Brachial Plexus Injuries", 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Kyoto, Japan, October 23–27, 2022. Accepted.
+Xu, W, **Liu, Y.** and Ben-Tzvi, P., "Development of a Novel Low-profile Robotic Exoskeleton Glove for Patients with Brachial Plexus Injuries", 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Kyoto, Japan, October 23–27, 2022, pp. 11121-11126.  [<img style="height:15px;" src="/images/link.png"/>](https://ieeexplore.ieee.org/abstract/document/9981124)
 
-Pressgrove, I., **Liu, Y.** and Ben-Tzvi, P., "Design and Implementation of a Power-Dense, Modular, and Compact Serpentine Articulated Robotic Tail", Proceedings of the ASME 2022 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC/CIE2022), 46th Mechanisms & Robotics Conference, St. Louis, MO, USA, August 14-17, 2022. Accepted.
+Xu, W, **Liu, Y.** and Ben-Tzvi, P., "Design, Analysis, and Prototyping of a Novel Single Degree-of-Freedom Index Finger Exoskeleton Mechanism", Proceedings of the ASME 2022 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC/CIE2022), 46th Mechanisms & Robotics Conference, St. Louis, MO, USA, August 14-17, 2022, p. V007T07A047.  [<img style="height:15px;" src="/images/link.png"/>](https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2022/86281/1150641)
 
-Xu, W, **Liu, Y.** and Ben-Tzvi, P., "Design, Analysis, and Prototyping of a Novel Single Degree-of-Freedom Index Finger Exoskeleton Mechanism", Proceedings of the ASME 2022 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC/CIE2022), 46th Mechanisms & Robotics Conference, St. Louis, MO, USA, August 14-17, 2022. Accepted.
-
-**Liu, Y.** and Ben-Tzvi, P., 2022, "How a Serpentine Tail Assists Agile Motions of Kangaroo Rats: A Dynamics and Control Approach", Nonlinear Dynamics, Under Review.
+Pressgrove, I., **Liu, Y.** and Ben-Tzvi, P., "Design and Implementation of a Power-Dense, Modular, and Compact Serpentine Articulated Robotic Tail", Proceedings of the ASME 2022 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC/CIE2022), 46th Mechanisms & Robotics Conference, St. Louis, MO, USA, August 14-17, 2022, p. V007T07A053.  [<img style="height:15px;" src="/images/link.png"/>](https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2022/V007T07A053/1150683)
 
 **Liu, Y.** and Ben-Tzvi, P., "Systematic Development of a Novel, Dynamic, Reduced Complexity Quadruped Robot Platform for Robotic Tail Research", 2022 IEEE International Conference on Robotics and Automation (ICRA), Philadelphia, PA, USA, May 23-27, 2022, pp. 4664-4670.  [<img style="height:15px;" src="/images/link.png"/>](https://ieeexplore.ieee.org/abstract/document/9811871)
 
@@ -29,7 +33,7 @@ Ben-Tzvi, P. and **Liu, Y.**, 2021, "Robots With Tails", ASME Mechanical Enginee
 
 **Liu, Y.** and Ben-Tzvi, P., 2021, "Dynamic Modeling, Analysis, and Design Synthesis of a Reduced Complexity Quadruped with a Serpentine Robotic Tail", Integrative and Comparative Biology, 61(2), pp. 464–477.  [<img style="height:15px;" src="/images/link.png"/>](https://academic.oup.com/icb/article/61/2/464/6276989?login=true)
 
-**Liu, Y.** and Ben-Tzvi, 2021, "A New Extensible Continuum Manipulator Using Flexible Parallel Mechanism and Rigid Motion Transmission", Journal of Mechanisms and Robotics, Transactions of the ASME, 13(3), p. 031112. [Invited Special Issue Paper]  [<img style="height:15px;" src="/images/link.png"/>](https://asmedigitalcollection.asme.org/mechanismsrobotics/article/13/3/031014/1098038/A-New-Extensible-Continuum-Manipulator-Using)
+**Liu, Y.** and Ben-Tzvi, P., 2021, "A New Extensible Continuum Manipulator Using Flexible Parallel Mechanism and Rigid Motion Transmission", Journal of Mechanisms and Robotics, Transactions of the ASME, 13(3), p. 031112. [Invited Special Issue Paper]  [<img style="height:15px;" src="/images/link.png"/>](https://asmedigitalcollection.asme.org/mechanismsrobotics/article/13/3/031014/1098038/A-New-Extensible-Continuum-Manipulator-Using)
 
 **Liu, Y.** and Ben-Tzvi, P., 2021, "Dynamic Modeling, Analysis, and Comparative Study of a Quadruped with Bio-inspired Robotic Tails", Multibody System Dynamics, 51(2), pp. 195-219.  [<img style="height:15px;" src="/images/link.png"/>](https://link.springer.com/article/10.1007/s11044-020-09764-8)
 
@@ -61,7 +65,7 @@ Wan, N., Yao, W., Fang, X. and **Liu, Y.**, 2019, "Partially Independent Control
 **Liu, Y.** and Ben-Tzvi, P., "Dynamic Modeling of the Quadruped with a Robotic Tail Using Virtual Work Principle", Proceedings of the ASME 2018 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC/CIE2018), 42nd Mechanisms & Robotics Conference, Quebec City, Canada, Aug. 26-29, 2018, p. V05BT07A021.  [<img style="height:15px;" src="/images/link.png"/>](https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2018/51814/V05BT07A021/276123)
 
 ## Patents
-Ben-Tzvi, P., **Liu, Y.**, "Extensible Continuum Manipulator", Patent App. No. 63/032,200, INTERNATIONAL (PCT), Filed 5/2021.
+Ben-Tzvi, P., **Liu, Y.**, "Extensible Continuum Manipulator", US Patent Appl. No. 17/996712, PCT No. PCT/US2021/034564, Published July 27 2023.
 
 Ben-Tzvi, P., Rone, W., Saab, W., **Liu, Y.**, "Articulated Multi-Link Robotic Tail Systems and Methods", Patent No. 11,305,420, UNITED STATES, 2022.  [<img style="height:15px;" src="/images/link.png"/>](https://patents.google.com/patent/US11305420B2/en)
 
