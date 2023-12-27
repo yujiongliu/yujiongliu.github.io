@@ -15,7 +15,7 @@ Grasping experiment using just the thumb and the index finger:
 
 A proof-of-concept prototype:
 
-<img style="height:300px;" src="/images/glove-prototype.png"/>
+<img style="height:400px;" src="/images/glove-prototype.png"/>
 
 **Related Publications:**
 
