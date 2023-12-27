@@ -18,6 +18,12 @@ As byproducts of the serpentine tail research, I have proposed several tail-like
 
 [<img style="height:150px;" src="/images/rmltail-intro.jpg"/>](/research/rmltail) [<img style="height:150px;" src="/images/rigitail-intro.jpg"/>](/research/rigitail) [<img style="height:150px;" src="/images/ecm-intro.jpg"/>](/research/ecm)
 
+## Developing Novel Robotic Exoskeleton Gloves
+
+I have also contributed to the mechanism design of novel low-profile robotic exoskeleton gloves for patients with brachial plexus injuries. Please click on the image to read more.
+
+[<img style="height:200px;" src="/images/exoglove.gif"/>](/research/exoglove)
+
 ## Parallel Mechanism Analysis and Control
 
 I have also worked on the controlling and kinematic analysis of parallel mechanisms. Please click on the image to read more about this work.
